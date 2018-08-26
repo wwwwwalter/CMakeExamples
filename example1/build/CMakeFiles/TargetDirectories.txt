@@ -1,0 +1,3 @@
+/home/walter/dev/CMakeExamples/example1/build/CMakeFiles/rebuild_cache.dir
+/home/walter/dev/CMakeExamples/example1/build/CMakeFiles/hello.dir
+/home/walter/dev/CMakeExamples/example1/build/CMakeFiles/edit_cache.dir
